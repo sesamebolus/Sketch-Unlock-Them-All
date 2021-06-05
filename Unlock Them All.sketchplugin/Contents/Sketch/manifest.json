@@ -1,0 +1,24 @@
+{
+  "author" : "Alex Cheung",
+  "commands" : [
+    {
+      "script" : "script.js",
+      "name" : "Unlock All Layers",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "unlock-all-layers"
+    }
+  ],
+  "menu" : {
+    "title" : "Unlock Them All",
+    "items" : [
+      "unlock-all-layers"
+    ]
+  },
+  "identifier" : "com.itisalex.sketch.unlock-them-all",
+  "version" : "1.0",
+  "description" : "Unlock all layers.",
+  "authorEmail" : "itisalex@163.com",
+  "name" : "Unlock Them All"
+}
