@@ -3,7 +3,7 @@
   "commands" : [
     {
       "script" : "script.js",
-      "name" : "Unlock All Layers",
+      "name" : "🔓 Unlock Them All",
       "handlers" : {
         "run" : "onRun"
       },
@@ -14,7 +14,8 @@
     "title" : "Unlock Them All",
     "items" : [
       "unlock-all-layers"
-    ]
+    ],
+    "isRoot": true
   },
   "identifier" : "com.itisalex.sketch.unlock-them-all",
   "version" : "1.0",
