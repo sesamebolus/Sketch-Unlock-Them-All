@@ -18,6 +18,7 @@
   },
   "identifier" : "com.itisalex.sketch.unlock-them-all",
   "version" : "1.0",
+  "icon" : "icon.png",
   "description" : "Unlock all layers.",
   "authorEmail" : "itisalex@163.com",
   "name" : "Unlock Them All"
